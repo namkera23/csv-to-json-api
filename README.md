@@ -37,7 +37,7 @@ The project demonstrates:
    cd csv-to-json-api
 
 
-nstall dependencies
+Install dependencies
 
 npm install
 
